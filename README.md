@@ -6,7 +6,7 @@ This project is a simple calculator built using Vue.js. It allows users to perfo
 
 To use this calculator, you'll need to have Node.js and npm installed on your computer. Once you have those installed, follow these steps:
 
-1. Clone this repository to your local machine: `git clone https://github.com/BBQHK/react-calculator.git`
+1. Clone this repository to your local machine: `git clone [https://github.com/BBQHK/react-calculator.git](https://github.com/BBQHK/vue-calculator.git)`
 2. Navigate to the project directory: `cd vue-calculator`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm run dev`
